@@ -1,44 +1,18 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
 /* Updated header color for better contrast */
 header {
     background-color: #2c3e50; /* Adjust the background color of the header for better contrast */
-    color: white; /* Set the text color for better contrast */
+    color: white; /* Set the text color for the header for better contrast */
     padding: 1rem;
 }
-/* Updated color for the h1 tag */
+
+/* Updated color for the h1 tag for better contrast */
 h1 {
-    color: #333; /* Specify the desired color for the h1 tag */
-}
-main {
-    padding: 2rem;
+    color: #FF69B4; /* Specify the light pink color for the h1 tag for better contrast */
 }
 
-footer {
-    background-color: #2c3e50;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-}
 /* Updated styles for the navigation links to improve contrast */
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-nav ul li {
-    margin: 0 1rem;
-}
-
 nav ul li a {
-    color: #333; /* Adjust the color of the navigation links for better contrast */
+    color: #ffffff; /* Adjust the color of the navigation links for better contrast */
     text-decoration: none;
 }
 
