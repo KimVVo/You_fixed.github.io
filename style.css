@@ -12,7 +12,7 @@ h1 {
 
 /* Updated styles for the navigation links to improve contrast */
 nav ul li a {
-    color: #ffffff; /* Adjust the color of the navigation links for better contrast */
+    color: black; /* Adjust the color of the navigation links for better contrast */
     text-decoration: none;
 }
 
