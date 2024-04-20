@@ -12,7 +12,7 @@ header {
 }
 /* Updated color for the h1 tag */
 h1 {
-    color: #FFB6C1; /* Specify the desired color for the h1 tag */
+    color: #333; /* Specify the desired color for the h1 tag */
 }
 main {
     padding: 2rem;
